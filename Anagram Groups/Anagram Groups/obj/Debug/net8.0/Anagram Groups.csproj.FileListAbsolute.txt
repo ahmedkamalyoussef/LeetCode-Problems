@@ -1,0 +1,15 @@
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\Anagram Groups.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\Anagram Groups.AssemblyInfoInputs.cache
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\Anagram Groups.AssemblyInfo.cs
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\Anagram Groups.csproj.CoreCompileInputs.cache
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\Anagram Groups.sourcelink.json
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\bin\Debug\net8.0\Anagram Groups.exe
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\bin\Debug\net8.0\Anagram Groups.deps.json
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\bin\Debug\net8.0\Anagram Groups.runtimeconfig.json
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\bin\Debug\net8.0\Anagram Groups.dll
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\bin\Debug\net8.0\Anagram Groups.pdb
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\Anagram Groups.dll
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\refint\Anagram Groups.dll
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\Anagram Groups.pdb
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\Anagram Groups.genruntimeconfig.cache
+D:\Visual studio\Problems\Anagram Groups\Anagram Groups\obj\Debug\net8.0\ref\Anagram Groups.dll
