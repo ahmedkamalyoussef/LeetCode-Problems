@@ -1,0 +1,15 @@
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\bin\Debug\net8.0\Top K Elements in List.exe
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\bin\Debug\net8.0\Top K Elements in List.deps.json
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\bin\Debug\net8.0\Top K Elements in List.runtimeconfig.json
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\bin\Debug\net8.0\Top K Elements in List.dll
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\bin\Debug\net8.0\Top K Elements in List.pdb
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\Top K Elements in List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\Top K Elements in List.AssemblyInfoInputs.cache
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\Top K Elements in List.AssemblyInfo.cs
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\Top K Elements in List.csproj.CoreCompileInputs.cache
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\Top K Elements in List.sourcelink.json
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\Top K Elements in List.dll
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\refint\Top K Elements in List.dll
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\Top K Elements in List.pdb
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\Top K Elements in List.genruntimeconfig.cache
+D:\Visual studio\Problems\Top K Elements in List\Top K Elements in List\obj\Debug\net8.0\ref\Top K Elements in List.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Top K Elements in List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c77bf2dd4d4c11bd7c1a18613aa852687e7cf8be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d03cd05bdfc9aefcfb6c26a9580f8f58834d2f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Top K Elements in List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Top K Elements in List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

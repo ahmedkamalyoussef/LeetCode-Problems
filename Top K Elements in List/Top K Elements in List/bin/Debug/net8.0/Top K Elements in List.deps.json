@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Top K Elements in List/1.0.0": {
+        "runtime": {
+          "Top K Elements in List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Top K Elements in List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
