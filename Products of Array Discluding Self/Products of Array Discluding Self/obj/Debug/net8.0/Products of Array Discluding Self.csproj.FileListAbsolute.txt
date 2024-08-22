@@ -1,0 +1,15 @@
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\Products of Array Discluding Self.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\Products of Array Discluding Self.AssemblyInfoInputs.cache
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\Products of Array Discluding Self.AssemblyInfo.cs
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\Products of Array Discluding Self.csproj.CoreCompileInputs.cache
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\Products of Array Discluding Self.sourcelink.json
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\bin\Debug\net8.0\Products of Array Discluding Self.exe
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\bin\Debug\net8.0\Products of Array Discluding Self.deps.json
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\bin\Debug\net8.0\Products of Array Discluding Self.runtimeconfig.json
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\bin\Debug\net8.0\Products of Array Discluding Self.dll
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\bin\Debug\net8.0\Products of Array Discluding Self.pdb
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\Products of Array Discluding Self.dll
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\refint\Products of Array Discluding Self.dll
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\Products of Array Discluding Self.pdb
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\Products of Array Discluding Self.genruntimeconfig.cache
+D:\Visual studio\Problems\Products of Array Discluding Self\Products of Array Discluding Self\obj\Debug\net8.0\ref\Products of Array Discluding Self.dll
