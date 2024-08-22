@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual studio\\Problems\\Valid Sudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3B8E5D-FAA1-464D-9A30-77CCFB1774EC}|Valid Sudoku\\Valid Sudoku.csproj|d:\\visual studio\\problems\\valid sudoku\\valid sudoku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3B8E5D-FAA1-464D-9A30-77CCFB1774EC}|Valid Sudoku\\Valid Sudoku.csproj|solutionrelative:valid sudoku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Problems\\Valid Sudoku\\Valid Sudoku\\Program.cs",
+              "RelativeDocumentMoniker": "Valid Sudoku\\Program.cs",
+              "ToolTip": "D:\\Visual studio\\Problems\\Valid Sudoku\\Valid Sudoku\\Program.cs",
+              "RelativeToolTip": "Valid Sudoku\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAqwH8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:54:03.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

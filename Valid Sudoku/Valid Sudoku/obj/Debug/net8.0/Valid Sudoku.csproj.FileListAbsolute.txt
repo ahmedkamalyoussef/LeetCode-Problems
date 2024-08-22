@@ -1,0 +1,15 @@
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\Valid Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\Valid Sudoku.AssemblyInfoInputs.cache
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\Valid Sudoku.AssemblyInfo.cs
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\Valid Sudoku.csproj.CoreCompileInputs.cache
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\Valid Sudoku.sourcelink.json
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\bin\Debug\net8.0\Valid Sudoku.exe
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\bin\Debug\net8.0\Valid Sudoku.deps.json
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\bin\Debug\net8.0\Valid Sudoku.runtimeconfig.json
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\bin\Debug\net8.0\Valid Sudoku.dll
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\bin\Debug\net8.0\Valid Sudoku.pdb
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\Valid Sudoku.dll
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\refint\Valid Sudoku.dll
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\Valid Sudoku.pdb
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\Valid Sudoku.genruntimeconfig.cache
+D:\Visual studio\Problems\Valid Sudoku\Valid Sudoku\obj\Debug\net8.0\ref\Valid Sudoku.dll
